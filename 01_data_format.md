@@ -13,6 +13,8 @@ study is to determine 1) if niche diversification is occurring within
 the genus and 2) if the birds are saturating the geographic scope of
 their niche within their geographic distribution.
 
+**Note** that throughout this pipeline, I occasionally refer to Mexican birds as *enigmae*. This is *not* the official subspecies name, but merely a reflection of the fact that the subspecies of these birds is not known for certain.
+
 More information on the populations can be found in the `readme` file.
 
 ## Required Packages
