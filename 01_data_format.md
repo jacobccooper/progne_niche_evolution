@@ -13,7 +13,7 @@ study is to determine 1) if niche diversification is occurring within
 the genus and 2) if the birds are saturating the geographic scope of
 their niche within their geographic distribution.
 
-**Note** that throughout this pipeline, I occasionally refer to Mexican birds as *enigmae*. This is *not* the official subspecies name, but merely a reflection of the fact that the subspecies of these birds is not known for certain.
+**Note** that throughout this pipeline, I occasionally refer to Mexican *Progne subis* as *enigmae* and coastal *P. s. arboricola* as *pacifica*. These are *not* the official subspecies names, but merely a designation to help me keep track of these populations through the pipeline as discrete from other populations.
 
 More information on the populations can be found in the `readme` file.
 
